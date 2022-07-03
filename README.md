@@ -1,4 +1,4 @@
-### Hi there 👋 hi guys, i'm bruno
+ hi guys, i'm bruno 👋
 
 <div align="center">
   <a href="https://github.com/BrunoFaria2">
